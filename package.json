@@ -4,9 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "express": "^4.13.4",
     "q": "^1.4.1",
     "redis": "^0.0.1"
-    
   },
   "devDependencies": {},
   "scripts": {
